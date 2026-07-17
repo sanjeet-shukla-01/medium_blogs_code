@@ -1,2 +1,2 @@
 # medium_blogs_code
-Codes repo for medium blogs
+code's repo for medium blogs
