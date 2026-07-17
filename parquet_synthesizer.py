@@ -161,6 +161,7 @@ class MockParquetWriter:
 # ==========================================
 if __name__ == "__main__":
     # 1. Synthesize target dataset
+# TODO read csv file and convert that to human readable parquet format
     synthesized_csv = """InvoiceNo,StockCode,Description,Quantity,Country
 536365,85123A,WHITE HANGING HEART T-LIGHT HOLDER,6,United Kingdom
 536366,71053,WHITE METAL LANTERN,6,United Kingdom
